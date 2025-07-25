@@ -37,7 +37,7 @@ My goal is to build projects that create meaningful impact and contribute positi
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![EJS](https://img.shields.io/badge/EJS-8e44ad?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🛠️ Tools & Platforms  
@@ -59,16 +59,13 @@ My goal is to build projects that create meaningful impact and contribute positi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shield)
 
 ---
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=yourgithubusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&theme=tokyonight&hide_border=false&layout=compact)
 
