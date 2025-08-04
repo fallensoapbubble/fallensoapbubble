@@ -62,20 +62,7 @@ My goal is to build projects that create meaningful impact and contribute positi
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
----
 
 ## ✍️ Random Dev Quote
 
