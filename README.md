@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌟 Hello! I'm a passionate developer currently focused on **Android Development** and **Machine Learning**.  
+🌟 Hello! I'm a passionate developer currently focused on **Full Web Stack Development** and **Machine Learning**.  
 My goal is to build projects that create meaningful impact and contribute positively to society.  
 
 🤝 I'm always open to collaboration, especially on:
