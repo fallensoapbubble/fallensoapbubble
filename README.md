@@ -1,8 +1,3 @@
-
-# 💫 Hello, World!
-
-### I'm a Developer & Aspiring Data Scientist
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
