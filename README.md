@@ -1,88 +1,104 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=1e2b3c,95ccff,B2E0FF&reversal=true" />
+</div>
 
----
+<h1 align="center">
+  Hi there, I'm Ashutosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-### 🎓 **B.Tech CSE at MIT WPU**
-### 🤝 **Member: Google Developer Student Clubs (GDSC)**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;Full+Stack+Developer;AI+%26+ML+Engineer;MIT+WPU+Student;GDSC+Member&font=Fira+Code&center=true&width=500&height=50&color=38bdf8&vCenter=true&size=25" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<p align="center">
+  <a href="https://github.com/fallensoapbubble">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=fallensoapbubble.fallensoapbubble&left_color=gray&right_color=blue" alt="visitor badge"/>
+  </a>
+</p>
 
-## 🏆 Achievement Unlocked: Hacktoberfest 2025
+<p align="center">
+  <b>🎓 B.Tech CSE at MIT WPU &nbsp; | &nbsp; 🤝 Member: Google Developer Student Clubs (GDSC)</b>
+</p>
 
-<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgouh61m0022l104f4cjakqa">
-  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=1F1F1F" alt="Hacktoberfest Supercontributor" height="40" />
-</a>
+<br/>
 
-<br>
-<i>Click the badge above to view my official Supercontributor status!</i>
-
+<div align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgouh61m0022l104f4cjakqa">
+    <img src="https://img.shields.io/badge/Hacktoberfest%202025-Supercontributor-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=1F1F1F" alt="Hacktoberfest Supercontributor" height="35" />
+  </a>
 </div>
 
 ---
 
-## 🧐 About Me
+### 🧐 About Me
 
 🌟 I'm a passionate developer bridging the gap between **Full Stack Engineering** and **Artificial Intelligence**. My goal is to build intelligent web applications that don't just display data, but understand it.
 
-* 🔭 **I’m currently working on:** Building predictive models and integrating them into full-stack web apps.
-* 🌱 **I’m currently learning:** Deep Learning architectures & Advanced Data Visualization.
-* 👯 **I’m looking to collaborate on:** Open Source ML libraries and Data-driven Web Projects.
-* 💬 **Ask me about:** Python, Feature Engineering, React.js, and Veritasium videos!
-* ⚡ **Fun fact:** If my code doesn't work, I probably just need to normalize the dataset (or sleep).
+- 🔭 **I’m currently working on:** Building predictive models and integrating them into full-stack web apps.
+- 🌱 **I’m currently learning:** Deep Learning architectures & Advanced Data Visualization.
+- 👯 **I’m looking to collaborate on:** Open Source ML libraries and Data-driven Web Projects.
+- ⚡ **Fun fact:** If my code doesn't work, I probably just need to normalize the dataset (or sleep).
 
 ---
 
-## 📊 The Data Science Arsenal
+### 🛠 &nbsp;The Arsenal
 
-| **Core & Analysis** | **Machine Learning** | **Visualization** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |  |
+#### 📊 Data Science & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 💻 Full Stack & Engineering
-
-### 🧠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+#### 💻 Full Stack & Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🛠️ Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+#### 🔧 Tools & Infrastructure
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🧩 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fallensoapbubble&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallensoapbubble&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fallensoapbubble&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallensoapbubble&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fallensoapbubble&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
----
-
-## 📫 Reach out!
-
-If you're interested in working together on ML innovations or Web projects, feel free to connect!
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
