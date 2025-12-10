@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi there, I'm Ashutosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi there, I'm Annanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
 <div align="center">
@@ -73,20 +73,7 @@
 
 ---
 
-### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fallensoapbubble&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallensoapbubble&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fallensoapbubble&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
-</div>
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
